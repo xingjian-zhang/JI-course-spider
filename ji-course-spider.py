@@ -1,7 +1,7 @@
 # coding: utf-8
 '''
 @author: JIM
-@file: ji-course-web.py
+@file: ji-course-spider.py
 @time: 2020/1/10
 '''
 
