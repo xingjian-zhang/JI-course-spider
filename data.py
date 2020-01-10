@@ -1,8 +1,8 @@
 chromedriver_path = 'chromedriver.exe'
 select_course_url = 'http://coursesel.umji.sjtu.edu.cn/welcome.action'
 api_key = '129eea671c88957'
-user_name = 'xingjian_zhang'
-pass_word = 'Tobeyourself'
+user_name = ''
+pass_word = ''
 x_path = {
     'captcha': '//*[@id="captcha-img"]',
     'turn': '//*[@id="electTurn"]/div[1]/div[1]/div[1]/a',
