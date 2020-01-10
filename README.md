@@ -5,7 +5,6 @@
 Just for fun! Please do not use it to frequently request the JI website!
 
 Todo List (plan):
-
-[]  A reminder to remind user if some course appears available slots.
-
-[]  A better user interface.
+- [x]  A function to recognize captcha.
+- [ ]  A reminder to remind user if some course appears available slots.
+- [ ]  A better user interface.
